@@ -2,4 +2,4 @@
 // script prints "JavaScript is amazing"
 
 const myVar = 'JavaScript is amazing';
-console.log(myvar);
+console.log(myVar);
