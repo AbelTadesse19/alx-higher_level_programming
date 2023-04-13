@@ -1,4 +1,4 @@
 #!/usr/bin/node
 
-const myVar = '${args[1]} is ${args[2]}';
+const myVar('${process.argv[1]} is ${process.argv{2]}';
 console.log(myVar);
