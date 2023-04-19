@@ -1,8 +1,10 @@
 #!/usr/bin/node
 
-let a;
-const mystring = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
+// script to print strings using a loop
 
-for (a = 0; a < 3; a++) {
-	console.log(mystring[a]);
+let i;
+const myString = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
+
+for (i = 0; i < 3; i++) {
+  console.log(myString[i]);
 }
